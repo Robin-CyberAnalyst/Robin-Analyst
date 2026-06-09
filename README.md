@@ -1,6 +1,3 @@
-Here is your clean, streamlined GitHub `README.md` content with the labs section completely removed, keeping the focus entirely on your background, skills, certifications, and LinkedIn connection.
-
-```markdown
 # Hi there, I'm Robin! 👋 🛡️
 
 A passionate **Cybersecurity Analyst** based in New Delhi, India. At 24 years old, I am dedicated to protecting digital assets, hunting threats, and securing complex network infrastructures in an ever-evolving digital landscape. 
@@ -30,5 +27,3 @@ Feel free to reach out to collaborate on cybersecurity projects, explore threat 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/)
 
 *Alternatively, you can view my public profile directly here: [My LinkedIn Profile](https://www.linkedin.com/public-profile/settings/)*
-
-```
