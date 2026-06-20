@@ -16,6 +16,7 @@ A passionate **Cybersecurity Analyst** based in New Delhi, India. At 24 years ol
 
 * **Google Cybersecurity Professional Certificate (Coursera):** Active learner pursuing the complete professional program. 📜
   * 🎓 *Earned Milestone:* **[Foundations of Cybersecurity Certificate](https://coursera.org/share/83ae46d019c75b6f733b68d3d0e3f9f2)** ✅
+  * 🎉 *Latest Achievement:* **[Play It Safe: Manage Security Risks](https://coursera.org/share/580c18c22266b4304e7bee6fd6bc8838)** ✅
 * **TryHackMe SOC Level 1 Pathway:** Practical lab-based experience in security operations, log analysis, and incident triage. 🕵️‍♂️
 * **Ongoing Certifications:** Currently preparing to earn the globally recognized CompTIA Security+ certification. 🔐
 
