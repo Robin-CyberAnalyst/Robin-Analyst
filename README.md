@@ -1,31 +1,94 @@
-# Hi there, I'm Robin! 👋 🛡️
+# Hi there, I'm Robin! 👋🛡️
 
-A passionate **Cybersecurity Analyst** based in New Delhi, India. At 24 years old, I am dedicated to protecting digital assets, hunting threats, and securing complex network infrastructures in an ever-evolving digital landscape. 
-
----
-
-## 💻 Core Expertise
-
-* **Cybersecurity Operations & Defense:** Threat Intelligence, Incident Response, and Vulnerability Management. 🛡️
-* **Network Security:** TCP/IP, Firewalls, VPNs, and Intrusion Detection Systems. 🌐
-* **Operating Systems & Scripting:** Linux Command Line, Windows Security, and Python/Bash automation. 🖥️
+I'm a passionate **Cybersecurity Analyst** based in **New Delhi, India**. I enjoy learning about cybersecurity, defending systems, analyzing threats, and strengthening network security through continuous hands-on practice and professional training.
 
 ---
 
-## 📚 Education & Training
+# 💻 Core Skills
 
-* **Google Cybersecurity Professional Certificate (Coursera):** Active learner pursuing the complete professional program. 📜
-  * 🎓 *Earned Milestone:* **[Foundations of Cybersecurity Certificate](https://coursera.org/share/83ae46d019c75b6f733b68d3d0e3f9f2)** ✅
-  * 🎉 *Latest Achievement:* **[Play It Safe: Manage Security Risks](https://coursera.org/share/580c18c22266b4304e7bee6fd6bc8838)** ✅
-* **TryHackMe SOC Level 1 Pathway:** Practical lab-based experience in security operations, log analysis, and incident triage. 🕵️‍♂️
-* **Ongoing Certifications:** Currently preparing to earn the globally recognized CompTIA Security+ certification. 🔐
+### 🛡️ Cybersecurity
+- Threat Intelligence
+- Incident Response
+- Vulnerability Management
+- Security Operations (SOC)
+
+### 🌐 Network Security
+- TCP/IP
+- Network Security Fundamentals
+- Firewalls
+- VPNs
+- Intrusion Detection Systems (IDS)
+
+### 💻 Operating Systems & Scripting
+- Linux Command Line
+- Windows Security
+- Python (Basics)
+- Bash Scripting
 
 ---
 
-## 🤝 Connect with me
+# 📚 Education & Certifications
 
-Feel free to reach out to collaborate on cybersecurity projects, explore threat hunting, or discuss the latest trends in information security!
+## 🎓 Google Cybersecurity Professional Certificate (Coursera)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/)
+Currently progressing through Google's Cybersecurity Professional Certificate while gaining practical, hands-on security knowledge.
 
-*Alternatively, you can view my public profile directly here: [My LinkedIn Profile](https://www.linkedin.com/public-profile/settings/)*
+### ✅ Completed Courses
+
+- **Foundations of Cybersecurity**
+  - 🔗 https://coursera.org/share/83ae46d019c75b6f733b68d3d0e3f9f2
+
+- **Play It Safe: Manage Security Risks**
+  - 🔗 https://coursera.org/share/580c18c22266b4304e7bee6fd6bc8838
+
+- **Connect and Protect: Networks and Network Security** ⭐ *(Latest Achievement)*
+  - 🔗 https://www.coursera.org/account/accomplishments/certificate/YMU5G67DJLJZ
+
+---
+
+## 🧪 Hands-on Learning
+
+### TryHackMe
+- SOC Level 1 Path
+- Log Analysis
+- Incident Response
+- Network Security
+- Threat Detection
+- Practical Blue Team Labs
+
+---
+
+## 🎯 Currently Learning
+
+- Google Cybersecurity Professional Certificate (Remaining Courses)
+- CompTIA Security+
+- Threat Hunting
+- SIEM (Splunk / Microsoft Sentinel)
+- Network Traffic Analysis
+- Malware Analysis
+
+---
+
+# 🚀 Goals
+
+- Build practical cybersecurity projects
+- Develop Blue Team skills
+- Master SOC operations
+- Contribute to open-source security projects
+- Earn industry-recognized cybersecurity certifications
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on cybersecurity projects, networking with security professionals, and sharing knowledge with the community.
+
+### 🌐 LinkedIn
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
+### 💻 GitHub
+https://github.com/Robin-CyberAnalyst
+
+---
+
+⭐ Thanks for visiting my profile! If you like my projects, consider giving them a ⭐.
