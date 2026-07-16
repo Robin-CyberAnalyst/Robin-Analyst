@@ -7,20 +7,20 @@ I'm a passionate **Cybersecurity Analyst** based in **New Delhi, India**. I enjo
 
 # 💻 Core Skills
 
-### 🛡️ Cybersecurity
+## 🛡️ Cybersecurity
 - Threat Intelligence
 - Incident Response
 - Vulnerability Management
 - Security Operations (SOC)
 
-### 🌐 Network Security
+## 🌐 Network Security
 - TCP/IP
 - Network Security Fundamentals
 - Firewalls
 - VPNs
 - Intrusion Detection Systems (IDS)
 
-### 💻 Operating Systems & Scripting
+## 💻 Operating Systems & Scripting
 - Linux Command Line
 - Windows Security
 - Python (Basics)
@@ -36,20 +36,20 @@ Currently progressing through Google's Cybersecurity Professional Certificate wh
 
 ### ✅ Completed Courses
 
-- **Foundations of Cybersecurity**
-  - 🔗 https://coursera.org/share/83ae46d019c75b6f733b68d3d0e3f9f2
+- **Foundations of Cybersecurity**  
+  🔗 https://coursera.org/share/83ae46d019c75b6f733b68d3d0e3f9f2
 
-- **Play It Safe: Manage Security Risks**
-  - 🔗 https://coursera.org/share/580c18c22266b4304e7bee6fd6bc8838
+- **Play It Safe: Manage Security Risks**  
+  🔗 https://coursera.org/share/580c18c22266b4304e7bee6fd6bc8838
 
-- **Connect and Protect: Networks and Network Security** ⭐ *(Latest Achievement)*
-  - 🔗 https://www.coursera.org/account/accomplishments/certificate/YMU5G67DJLJZ
+- **Connect and Protect: Networks and Network Security** ⭐ *(Latest Achievement)*  
+  🔗 https://www.coursera.org/account/accomplishments/certificate/YMU5G67DJLJZ
 
 ---
 
-## 🧪 Hands-on Learning
+# 🧪 Hands-on Learning
 
-### TryHackMe
+## TryHackMe
 - SOC Level 1 Path
 - Log Analysis
 - Incident Response
@@ -59,7 +59,7 @@ Currently progressing through Google's Cybersecurity Professional Certificate wh
 
 ---
 
-## 🎯 Currently Learning
+# 🎯 Currently Learning
 
 - Google Cybersecurity Professional Certificate (Remaining Courses)
 - CompTIA Security+
@@ -90,7 +90,7 @@ I'm always interested in collaborating on cybersecurity projects, networking wit
 
 [![Email](https://img.shields.io/badge/Email-rs4550609%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs4550609@gmail.com)
 
-[![Phone](https://img.shields.io/badge/Phone-+91%208527733951-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918527733951)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208527733951-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918527733951)
 
 ---
 
