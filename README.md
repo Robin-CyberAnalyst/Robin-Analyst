@@ -1,3 +1,4 @@
+```markdown
 # Hi there, I'm Robin! 👋🛡️
 
 I'm a passionate **Cybersecurity Analyst** based in **New Delhi, India**. I enjoy learning about cybersecurity, defending systems, analyzing threats, and strengthening network security through continuous hands-on practice and professional training.
@@ -84,8 +85,14 @@ Currently progressing through Google's Cybersecurity Professional Certificate wh
 I'm always interested in collaborating on cybersecurity projects, networking with security professionals, and sharing knowledge with the community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robin%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-chauhan-8841261b3)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Robin--CyberAnalyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robin-CyberAnalyst)
+
+[![Email](https://img.shields.io/badge/Email-rs4550609%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs4550609@gmail.com)
+
+[![Phone](https://img.shields.io/badge/Phone-+91%208527733951-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918527733951)
 
 ---
 
 ⭐ **Thanks for visiting my profile!** If you like my projects, consider giving them a ⭐ and feel free to connect with me on LinkedIn!
+```
