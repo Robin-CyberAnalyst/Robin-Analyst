@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Robin! 👋🛡️
 
 I'm a passionate **Cybersecurity Analyst** based in **New Delhi, India**. I enjoy learning about cybersecurity, defending systems, analyzing threats, and strengthening network security through continuous hands-on practice and professional training.
@@ -95,4 +94,4 @@ I'm always interested in collaborating on cybersecurity projects, networking wit
 ---
 
 ⭐ **Thanks for visiting my profile!** If you like my projects, consider giving them a ⭐ and feel free to connect with me on LinkedIn!
-```
+
