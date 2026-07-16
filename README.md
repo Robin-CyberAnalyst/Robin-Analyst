@@ -89,7 +89,7 @@ I'm always interested in collaborating on cybersecurity projects, networking wit
 
 📧 **Email:** [rs4550609@gmail.com](mailto:rs4550609@gmail.com)
 
-📱 **Phone:** [+91 8527733951](tel:+918527733951)
+
 
 ---
 
